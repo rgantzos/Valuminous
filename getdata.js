@@ -3,7 +3,7 @@ request.open("GET", 'https://raw.githubusercontent.com/Scratchfangs/Valuminous/m
 request.onreadystatechange = function() { 
 if (request.readyState === 4 && request.status === 200) {
   data = xhttp.responseText;
-  img = "<img src="+data"+"alt="Italian Trulli">";
+  img = "<img src="+data"+"alt="win11 logo or something">";
   Document.getElementById("test").innerHTML = img;
 
 

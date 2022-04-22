@@ -1,2 +1,2 @@
 # Valuminous
-The Steam for Scratch. 
+The Steam for Schools. 
